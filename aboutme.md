@@ -12,6 +12,6 @@ Feel free to connect with me if you'd like to learn more or collaborate!
 
 ## Connect with Me
 
-- **GitHub:** [AidenQian](https://github.com/aidenqian08)
+- **GitHub:** [Aiden Qian](https://github.com/aidenqian08)
 - **LinkedIn:** [Aiden Qian](https://www.linkedin.com/in/aiden-qian-3b2740320/)
 - **Email:** azqian@stanford.edu
