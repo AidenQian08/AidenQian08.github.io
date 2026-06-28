@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   # Blog Posts: "blogposts"
   Resources:
-    - GitHub: "github.com/aidenqian08"
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com" CHANGE BACK
 
@@ -139,7 +139,7 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
+navbar-col: "#F5B0B0"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
