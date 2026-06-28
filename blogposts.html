@@ -1,0 +1,25 @@
+---
+layout: default
+title: Blog Posts
+permalink: /blogposts/
+---
+
+<h1>Blog Posts</h1>
+
+{% assign posts = site.posts %}
+
+<ul class="posts-list list-unstyled" role="list">
+{% for post in posts %}
+<li class="post-preview">
+  <a href="{{ post.url | absolute_url }}">
+    <h2>{{ post.title }}</h2>
+  </a>
+
+  <p class="post-meta">
+    {{ post.date | date: "%B %-d, %Y" }}
+  </p>
+
+  <p>{{ post.excerpt | strip_html | truncatewords: 40 }}</p>
+</li>
+{% endfor %}
+</ul>
